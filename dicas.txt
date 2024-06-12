@@ -1,0 +1,11 @@
+.LOG
+
+### PARA CHAMAR UM CLASSE USA SE O [.] E NOME DA CLASSE
+gameClicado.querySelector('.dashboard__item__img')
+
+
+- Uma classe pode ser compartilhada
+entre várias tags e uma tag pode ter
+múltiplas classes.
+- O ID é único na página e cada elemento
+tem apenas um ID.
